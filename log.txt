@@ -1,0 +1,17 @@
+2023-11-01 20:54:43 [info]: Jayesh Deshmukh created multiple employees using excel 
+2023-11-01 20:55:19 [info]: Jayesh Deshmukh updated salary details of emp: 3
+2023-11-01 20:55:39 [info]: Jayesh Deshmukh printed salary details of emp: 3
+2023-11-01 20:55:58 [info]: Jayesh Deshmukh updated employee details of emp: 4
+2023-11-01 16:29:13 [info]: Jayesh Deshmukh logged out
+2023-11-03 21:20:19 [info]: Jayesh Deshmukh logged in
+2023-11-03 21:24:50 [info]: Jayesh Deshmukh created new employee manually
+2024-06-29 17:49:56 [info]: Jayesh Deshmukh logged in
+2024-06-29 17:57:15 [info]: Jayesh Deshmukh logged in
+2024-06-29 17:58:42 [info]: Jayesh Deshmukh printed salary details of emp: 1
+2024-06-29 18:53:35 [info]: Jayesh Deshmukh logged in
+2024-06-29 19:04:22 [info]: Jayesh Deshmukh printed salary details of emp: 1
+2024-06-29 19:05:12 [info]: Jayesh Deshmukh printed salary details of emp: 1
+2024-06-29 19:05:23 [info]: Jayesh Deshmukh printed salary details of emp: 1
+2024-06-29 19:05:54 [info]: Jayesh Deshmukh printed salary details of emp: 1
+2024-06-29 19:06:29 [info]: Jayesh Deshmukh printed salary details of emp: 1
+2024-06-29 19:06:50 [info]: Jayesh Deshmukh printed salary details of emp: 1
